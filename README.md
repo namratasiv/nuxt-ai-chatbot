@@ -1,6 +1,7 @@
-# Nuxt 3 Minimal Starter
+# Nuxt AI Chatbot with Google Gemini
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+[Gemini Docs](https://ai.google.dev/tutorials/node_quickstart)
 
 ## Setup
 
