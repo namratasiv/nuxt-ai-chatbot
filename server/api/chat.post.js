@@ -8,7 +8,7 @@ export default defineEventHandler(async (event) => {
 	
 
 // Access your API key as an environment variable (see "Set up your API key" above)
-const genAI = new GoogleGenerativeAI("AIzaSyBnk_WIPeOuab99WEToXjj4f5edWEAKisc");
+const genAI = new GoogleGenerativeAI(process.env.API_KEY);
 
 
   // For text-only input, use the gemini-pro model
